@@ -47,7 +47,7 @@ This project is licensed under the MIT License. For more details, see the LICENS
 
 Contact
 For any inquiries, you can contact me at mahdi.yanate.ir.
-
+or my email at mahdi.mahdi1385631@gmail.com .
 Support
 If you find this project helpful, please consider supporting me:
 
